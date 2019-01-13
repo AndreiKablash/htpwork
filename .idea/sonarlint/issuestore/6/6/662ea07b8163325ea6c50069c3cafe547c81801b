@@ -1,0 +1,10 @@
+
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(µàÑ‹8ÜÖ«ÿ€-
+W"squid:SwitchLastCaseIsDefaultCheck#""Add a default case to this switch.(û¨êµ8ÜÖ«ÿ€-
+csquid:S2259("EA "NullPointerException" could be thrown; "currEmp" is nullable here.(¬˜Ï8ÜÖ«ÿ€-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÅÇê
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿ8ÜÖ«ÿ€-
+hsquid:S2259+"EA "NullPointerException" could be thrown; "currEmp" is nullable here.(€ğ©Öúÿÿÿÿ8ÜÖ«ÿ€-
+hsquid:S2259%"EA "NullPointerException" could be thrown; "empList" is nullable here.(¶İºùÿÿÿÿ8ÜÖ«ÿ€-
+csquid:S2259."EA "NullPointerException" could be thrown; "currEmp" is nullable here.(ª·8ÜÖ«ÿ€-

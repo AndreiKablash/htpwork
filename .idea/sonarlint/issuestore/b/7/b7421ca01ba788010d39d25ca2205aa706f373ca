@@ -1,0 +1,58 @@
+
+;squid:S1659<"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+Nsquid:S1197
+"8Move the array designator from the variable to the type.(ÄÓˆ{
+Nsquid:S11976"8Move the array designator from the variable to the type.(¯îl
+Tsquid:S1197G"8Move the array designator from the variable to the type.(§Î¡ğúÿÿÿÿ
+Osquid:S1197\"8Move the array designator from the variable to the type.(úÚäğ
+Usquid:S1197…"8Move the array designator from the variable to the type.(îÏÎ˜üÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÌõÛq
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(èïêëúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(–‚–‡ıÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ËÜ÷É
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(åÒ¸£ùÿÿÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S106S"9Replace this use of System.out or System.err by a logger.(âˆ£Ç
+T
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106["9Replace this use of System.out or System.err by a logger.(Ü‘½ûÿÿÿÿ
+T
+squid:S106g"9Replace this use of System.out or System.err by a logger.(•©Ö€ıÿÿÿÿ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106l"9Replace this use of System.out or System.err by a logger.(„ßÜ“üÿÿÿÿ
+T
+squid:S106v"9Replace this use of System.out or System.err by a logger.(•©Ö€ıÿÿÿÿ
+T
+squid:S106x"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S106{"9Replace this use of System.out or System.err by a logger.(³íŸø
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(•©Ö€ıÿÿÿÿ
+U
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(şŒÜ¤ûÿÿÿÿ
+P
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(½äç
+˜squid:S2681@"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ªÓ¼áşÿÿÿÿ
+˜squid:S2681T"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ªÓ¼áşÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Çµí‘

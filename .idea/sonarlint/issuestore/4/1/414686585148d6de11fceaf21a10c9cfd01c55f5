@@ -1,0 +1,14 @@
+
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(‚ÀÎôÿÿÿÿÿ8®ù¯ò,
+zsquid:S1192$"WDefine a constant instead of duplicating this literal "There is no such train" 3 times.(‚ÀÎôÿÿÿÿÿ8‘îø¯ò,
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(‚ÀÎôÿÿÿÿÿ
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8®ù¯ò,
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(‚ÀÎôÿÿÿÿÿ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ

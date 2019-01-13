@@ -1,0 +1,14 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æøº¦øÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Ô©ü­ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö¯²Ûûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(–×µ‚þÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ–±ñ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ–±ñ
+Qsquid:S2209"5Change this instance-reference to a static reference.(å½œ´ÿÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆØÇ¶
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÄû«

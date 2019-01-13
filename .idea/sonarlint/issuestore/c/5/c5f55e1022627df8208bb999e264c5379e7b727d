@@ -1,0 +1,7 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã’î
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊèÉ¤ýÿÿÿÿ
+Hsquid:S1481
+",Remove this unused "lesson3" local variable.(¾ÊÑ²üÿÿÿÿ
+<squid:S2326"%instanseof is not used in the method.(‘ÿŠÖ
+asquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‘ÿŠÖ

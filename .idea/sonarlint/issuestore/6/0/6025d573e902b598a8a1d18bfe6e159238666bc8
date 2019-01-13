@@ -1,0 +1,7 @@
+
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´è‰¤8İ¶îó,
+Fsquid:S1172"(Remove this unused method parameter "i".(´è‰¤8İ¶îó,
+Rsquid:UnusedPrivateMethod"&Remove this unused private "B" method.(´è‰¤8İ¶îó,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU8İ¶îó,
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(×” ûÿÿÿÿ

@@ -1,0 +1,15 @@
+
+ssquid:S1192m"WDefine a constant instead of duplicating this literal "There is no such train" 3 times.(‚ÀÎôÿÿÿÿÿ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(‚ÀÎôÿÿÿÿÿ
+T
+squid:S106u"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+T
+squid:S106y"9Replace this use of System.out or System.err by a logger.(‚ÀÎôÿÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+U
+squid:S106…"9Replace this use of System.out or System.err by a logger.(‚ÀÎôÿÿÿÿÿ
+Jsquid:S1172}"3Remove this unused method parameter "generalSeats".(´åŠó

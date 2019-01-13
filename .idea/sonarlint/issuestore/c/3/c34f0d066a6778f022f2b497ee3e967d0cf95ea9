@@ -1,0 +1,4 @@
+
+Gsquid:S1172"0Remove this unused method parameter "arrayList".(ìôâÆ
+‹squid:S1319"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ìôâÆ
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èï¤ù8ÆüşÔş,

@@ -1,0 +1,9 @@
+
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8ıèùÀû,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÑéôÿÿÿÿÿ8‰¹µÂû,
+bsquid:S2147"DCombine this catch with the one at line 26, which has the same body.(Ö¨š•8°ÆâÂû,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ãú÷øÿÿÿÿ8°ÆâÂû,
+csquid:S2259"@A "NullPointerException" could be thrown; "c1" is nullable here.(äÑéôÿÿÿÿÿ8¯ÔµÂû,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ›áÔ
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8°ÆâÂû,

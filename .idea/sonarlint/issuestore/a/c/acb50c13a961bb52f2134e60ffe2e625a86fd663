@@ -1,0 +1,6 @@
+
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿ8Â–Õş€-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÅÇê
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8ºÑíı€-
+W"squid:SwitchLastCaseIsDefaultCheck&""Add a default case to this switch.(ÄÄª8Â–Õş€-

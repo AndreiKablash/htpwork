@@ -1,0 +1,182 @@
+
+T
+squid:S106a"9Replace this use of System.out or System.err by a logger.(§ƒÿ—ıÿÿÿÿ
+O
+squid:S106t"9Replace this use of System.out or System.err by a logger.(‰§ûÅ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(•©Ö€ıÿÿÿÿ
+U
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+O
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(Ê«à0
+osquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÒØ¬øÿÿÿÿ
+^squid:S1192í"GDefine a constant instead of duplicating this literal "names[" 4 times.(·„…k
+U
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(œƒâşÿÿÿÿ
+U
+squid:S106É"9Replace this use of System.out or System.err by a logger.(ô•ÙÉşÿÿÿÿ
+U
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(Ú°¸áıÿÿÿÿ
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(Ã­ØÚÿÿÿÿÿ
+Fsquid:S2140Ã")Use "java.util.Random.nextInt()" instead.(ñÓĞ·üÿÿÿÿ
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(¸ö›Æ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(úƒõ°úÿÿÿÿ
+P
+squid:S106€"9Replace this use of System.out or System.err by a logger.(øûÍ›
+U
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(âŠ¿æùÿÿÿÿ
+U
+squid:S106º"9Replace this use of System.out or System.err by a logger.(Ø‰Âîıÿÿÿÿ
+U
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+U
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(³¹·úÿÿÿÿ
+O
+squid:S106z"9Replace this use of System.out or System.err by a logger.(¡„ä
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ĞÌûı
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ôà›×øÿÿÿÿ
+U
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ÌÉÀúÿÿÿÿ
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ç² Õşÿÿÿÿ
+P
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ÒøŞ—
+P
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(£¢µ¡
+P
+squid:S106×"9Replace this use of System.out or System.err by a logger.(äò‘¿
+Osquid:S11976"8Move the array designator from the variable to the type.(ÂÌò¬
+Osquid:S1197"8Move the array designator from the variable to the type.(úÚäğ
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(“à¼èşÿÿÿÿ
+O
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(‚·®p
+O
+squid:S106í"9Replace this use of System.out or System.err by a logger.(·„…k
+U
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(ŠØË®şÿÿÿÿ
+U
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(Âé¯ğúÿÿÿÿ
+U
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(¡„Ÿşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê«à0
+Usquid:S1197Ü"8Move the array designator from the variable to the type.(éÃÏˆıÿÿÿÿ
+O
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(·„…k
+U
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(Ì ¿‘ıÿÿÿÿ
+;squid:S1659v"Declare "k" on a separate line.(†°Ï•øÿÿÿÿ
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ÀşÅšÿÿÿÿÿ
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(™«á¼
+P
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(”ÌÇµ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(Çµí‘
+U
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+U
+squid:S106å"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106î"9Replace this use of System.out or System.err by a logger.(›ĞŞËúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾·Ûşÿÿÿÿÿ
+O
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Ù©È±
+Psquid:S1197Ş"8Move the array designator from the variable to the type.(ê»â¼
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ôàŸÔùÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Psquid:S1197À"8Move the array designator from the variable to the type.(ÉÁœ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃºÒÑ
+T
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106–"9Replace this use of System.out or System.err by a logger.(˜‡Õˆ
+N
+squid:S106U"9Replace this use of System.out or System.err by a logger.(¬İn
+U
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(î°ü„
+osquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¯ÙÆüÿÿÿÿ
+O
+squid:S106©"9Replace this use of System.out or System.err by a logger.(ÆÀŒ
+P
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(¦¢œ´
+Psquid:S1197İ"8Move the array designator from the variable to the type.(âä¡ƒ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(şŒÜ¤ûÿÿÿÿ
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(ÌãÅÒûÿÿÿÿ
+O
+squid:S106†"9Replace this use of System.out or System.err by a logger.(Ê«à0
+U
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(¤üÄ±ıÿÿÿÿ
+T
+squid:S106q"9Replace this use of System.out or System.err by a logger.(Ï”şÉûÿÿÿÿ
+U
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(‘°¢ÿÿÿÿÿ
+Asquid:S1659Ê"$Declare "second" on a separate line.(«ğ™¼üÿÿÿÿ
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(¶ü“üûÿÿÿÿ
+T
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+jsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à•ı
+P
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(÷ˆç±
+P
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(éÄ‘·
+U
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(êÅ‡Òúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×¡çùÿÿÿÿ
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(é“ó
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(œƒâşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ã×Äıÿÿÿÿ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(•©Ö€ıÿÿÿÿ
+P
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(î´–Å
+P
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(éÄ‘·
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(°Ğßüÿÿÿÿ
+U
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(º®¾Şûÿÿÿÿ
+qsquid:S1192ô"ZDefine a constant instead of duplicating this literal "There are no coincidences" 3 times.(Ê«à0
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(ËÜ÷É
+U
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(«Õ·œÿÿÿÿÿ
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ıàøÿ
+U
+squid:S106€"9Replace this use of System.out or System.err by a logger.(‹İñöşÿÿÿÿ
+P
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(û…¨Õ
+U
+squid:S106”"9Replace this use of System.out or System.err by a logger.(º®¾Şûÿÿÿÿ
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(³íŸø
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(–‚–‡ıÿÿÿÿ

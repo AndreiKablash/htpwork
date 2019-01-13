@@ -1,0 +1,11 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÉó±ÿÿÿÿÿ8¥ºúı,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïåñ—8ÀÈóı,
+dsquid:S2142	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ºšóı,
+fsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8ºšóı,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(©½¼§8—Ëìı,
+Fsquid:S1148
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ºšóı,

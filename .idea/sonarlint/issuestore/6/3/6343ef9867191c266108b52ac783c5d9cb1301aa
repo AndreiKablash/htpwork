@@ -1,0 +1,8 @@
+
+Asquid:S1148:"#Use a logger to log this exception.(Ç’Çê8²ÑÚ»‚-
+Asquid:S1148P"#Use a logger to log this exception.(Ç’Çê8ÿ·¾‚-
+Asquid:S1148j"#Use a logger to log this exception.(Ç’Çê8²ÑÚ»‚-
+€squid:S4087_"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(µÖ€’8×ò«¿‚-
+Asquid:S1148%"#Use a logger to log this exception.(Ç’Çê8¥ÜĞ»‚-
+Usquid:S1197x"8Move the array designator from the variable to the type.(«¤Ñ+8úñºÀ‚-
+Bsquid:S1148‡"#Use a logger to log this exception.(Ç’Çê8úñºÀ‚-

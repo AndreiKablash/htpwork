@@ -1,0 +1,18 @@
+
+msquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¸®8Âæ‰Áò,
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¨À•ÿÿÿÿÿ8ÍùŠÁò,
+isquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(Á»›ê8¼àêÂò,
+U
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ñü½Z8¨æŒÁò,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î½ƒ«
+Zsquid:S3066"<Lower the visibility of this setter or remove it altogether.(×˜¿8›Ğî¿ò,
+_squid:S3066"<Lower the visibility of this setter or remove it altogether.(œŒì€ûÿÿÿÿ8›Ğî¿ò,
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Õ¡¨Şùÿÿÿÿ8¢ŒÁò,
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Ã´¦üÿÿÿÿ8ò­Áò,
+„squid:S1488I"aImmediately return this expression instead of assigning it to the temporary variable "lowercase".(¨Ÿ°®ıÿÿÿÿ8ÓÄíÂò,
+rsquid:S00100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨İ×Ôûÿÿÿÿ8Âæ‰Áò,
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ğâÀŞıÿÿÿÿ8ÊÓ‹Áò,

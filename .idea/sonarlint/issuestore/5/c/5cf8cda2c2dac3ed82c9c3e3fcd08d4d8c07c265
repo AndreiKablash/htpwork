@@ -1,0 +1,15 @@
+
+O
+squid:S106/"9Replace this use of System.out or System.err by a logger.(„Ã°ó
+bsquid:S2142K"FEither re-interrupt this method or rethrow the "InterruptedException".(ÇâÞáøÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éææ©
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Ë·ù’
+[squid:S22590"DA "NullPointerException" could be thrown; "client" is nullable here.(­šë›
+`squid:S22593"DA "NullPointerException" could be thrown; "client" is nullable here.(”¦¹Æýÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë·ù’
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(â“‹ð
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“–ýþ
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

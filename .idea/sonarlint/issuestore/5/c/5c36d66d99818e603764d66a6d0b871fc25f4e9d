@@ -1,0 +1,19 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú€šŒ8Áœ¼Õü,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï¢ÃŞ8Áœ¼Õü,
+Ssquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ÑîÄÕü,
+wsquid:S00116"SRename this field "ValueSet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ì´Ñÿÿÿÿÿ8ÈŠ¼Õü,
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¦áÂò8Áœ¼Õü,
+Esquid:S21895""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Áœ¼Õü,
+Esquid:S2189(""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Áœ¼Õü,
+dsquid:S2142
+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8İÃÕü,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ƒ·ûÿÿÿÿ8İÃÕü,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ƒ·ûÿÿÿÿ8‹éÇÕü,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‹éÇÕü,
+Ssquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ºòËÕü,

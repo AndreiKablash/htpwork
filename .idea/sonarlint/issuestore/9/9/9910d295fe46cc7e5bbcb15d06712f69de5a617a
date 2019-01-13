@@ -1,0 +1,9 @@
+
+@squid:S3010 "$Remove this assignment of "machine".(óßã÷ûÿÿÿÿ
+squid:S4165 "eRemove this useless assignment; "machine" already holds the assigned value along all execution paths.(óßã÷ûÿÿÿÿ
+Dsquid:S1444"-Make this "public static machine" field final(œäÉô
+"squid:ClassVariableVisibilityCheck"SMake machine a static final constant or non-public and provide accessors if needed.(œäÉô
+Qsquid:S2209 "5Change this instance-reference to a static reference.(óßã÷ûÿÿÿÿ
+^squid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(Ñ™›æúÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½«öêúÿÿÿÿ
+-squid:S1700"Rename field "machine"(œäÉô

@@ -1,0 +1,14 @@
+package com.htp.homework.lesson12.domain;
+
+private class Example {
+    private int value;
+    private String name;
+
+    private Example(int value, String name) {
+        this.value = value;
+        this.name = name;
+    }
+    private String toString() {
+        return name + ": " + value;
+    }
+}

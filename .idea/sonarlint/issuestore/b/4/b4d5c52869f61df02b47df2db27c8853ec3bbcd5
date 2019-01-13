@@ -1,0 +1,21 @@
+
+Tsquid:S10688"8Remove this unused "privateFinalInnerInt" private field.(Ð¦÷µþÿÿÿÿ
+€squid:S4165R"iRemove this useless assignment; "innerString" already holds the assigned value along all execution paths.(Ð‰áÉ
+gsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ã×ßØúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ãßöñ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(©Õ®‰üÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¢¡ÿÃùÿÿÿÿ
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¥Ö¦í
+T
+squid:S1063"9Replace this use of System.out or System.err by a logger.(Û„×šøÿÿÿÿ
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(¥½‰ºøÿÿÿÿ
+O
+squid:S106W"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+Isquid:S1172Q"2Remove this unused method parameter "ineerString".(øëæ¶
+wsquid:S001157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„»‡úþÿÿÿÿ
+wsquid:S001158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ð¦÷µþÿÿÿÿ

@@ -1,0 +1,29 @@
+
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(‰•î–ûÿÿÿÿ
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(àÑ½¤ÿÿÿÿÿ
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(“šÊ×øÿÿÿÿ
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ð²Ö•üÿÿÿÿ
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(„ŸÑïþÿÿÿÿ
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(Ø€î¤
+T
+squid:S106`"9Replace this use of System.out or System.err by a logger.(¦íù¹úÿÿÿÿ
+O
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Ø€î¤
+T
+squid:S106f"9Replace this use of System.out or System.err by a logger.(¦íù¹úÿÿÿÿ
+O
+squid:S106h"9Replace this use of System.out or System.err by a logger.(‹ÚÏÝ
+T
+squid:S106l"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(Ï¼¸îýÿÿÿÿ
+T
+squid:S106r"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ
+T
+squid:S106t"9Replace this use of System.out or System.err by a logger.(»ë¾Ùýÿÿÿÿ
+Ksquid:S14817"/Remove this unused "dogTreeMap" local variable.(³»úÚýÿÿÿÿ
+Lsquid:S14818"5Remove this unused "dogLinkedHashMap" local variable.(Ü…º

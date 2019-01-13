@@ -1,0 +1,9 @@
+
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(½¶šûÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ûñ¹
+ƒ"squid:ClassVariableVisibilityCheck"PMake bool a static final constant or non-public and provide accessors if needed.(ìÝ¢¯øÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"QMake bool1 a static final constant or non-public and provide accessors if needed.(¡º‡šýÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"QMake bool2 a static final constant or non-public and provide accessors if needed.(Óž»Ò
+˜squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úý”ª
+˜squid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(þ½ ì

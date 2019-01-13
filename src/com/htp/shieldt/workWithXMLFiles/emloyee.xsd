@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="employees" type="employeesType"/>
+    <xs:complexType name="employeeType">
+        <xs:sequence>
+            <xs:element name="firstName">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="Rakesh"/>
+                        <xs:enumeration value="John"/>
+                        <xs:enumeration value="Rajesh"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="lastName">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="Mishra"/>
+                        <xs:enumeration value="Davis"/>
+                        <xs:enumeration value="Sharma"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="location">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="Bangalore"/>
+                        <xs:enumeration value="Chennai"/>
+                        <xs:enumeration value="Pune"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="id" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="employeesType">
+        <xs:sequence>
+            <xs:element type="employeeType" name="employee" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

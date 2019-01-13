@@ -1,0 +1,11 @@
+
+?squid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+usquid:S1192"YDefine a constant instead of duplicating this literal "ĞĞ²Ñ‚Ğ¾Ğ¼Ğ¾Ğ±Ğ¸Ğ»ÑŒ â„–" 3 times.(‘¸Ëúÿÿÿÿ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ıÀæÊıÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âœ«y
+]squid:S2142-"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘¸Ëúÿÿÿÿ
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(¦„ 

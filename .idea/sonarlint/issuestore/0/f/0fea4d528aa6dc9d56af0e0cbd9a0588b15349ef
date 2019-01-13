@@ -1,0 +1,53 @@
+
+3squid:S1643 "Use a StringBuilder instead.(þ¬Þæ
+8squid:S16436"Use a StringBuilder instead.(ä‰Ôûøÿÿÿÿ
+Tsquid:S1197&"8Move the array designator from the variable to the type.(‡ÅñÊùÿÿÿÿ
+Tsquid:S1197x"8Move the array designator from the variable to the type.(ƒ…ööøÿÿÿÿ
+Psquid:S1197–"8Move the array designator from the variable to the type.(ð×ØÆ
+Usquid:S1197—"8Move the array designator from the variable to the type.(©™àüýÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Éúí
+bsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(ŒÃÅ‹
+hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(î¬õÛýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³©Ç¢þÿÿÿÿ
+N
+squid:S106""9Replace this use of System.out or System.err by a logger.(øœ‚1
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(èñµ
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(ôé£ˆùÿÿÿÿ
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÛØ‡ûýÿÿÿÿ
+N
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ä¬é
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(õãðêûÿÿÿÿ
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(”á®öüÿÿÿÿ
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ôõ¼ûÿÿÿÿ
+T
+squid:S106T"9Replace this use of System.out or System.err by a logger.(€¶µÀüÿÿÿÿ
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(‰ïµÃøÿÿÿÿ
+O
+squid:S106`"9Replace this use of System.out or System.err by a logger.(ÃÈ…Ï
+T
+squid:S106w"9Replace this use of System.out or System.err by a logger.(Õõš½øÿÿÿÿ
+P
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(­êßÐ
+P
+squid:S106„"9Replace this use of System.out or System.err by a logger.(ÅÌ°
+P
+squid:S106…"9Replace this use of System.out or System.err by a logger.(õ×¢
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ºõôÑÿÿÿÿÿ
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Ì‡êÁ
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(µÌÊ‚þÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÒðÞ
+>squid:S1481Y"'Remove this unused "s1" local variable.(‹ÕœÄ
+isquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(Çµí‘

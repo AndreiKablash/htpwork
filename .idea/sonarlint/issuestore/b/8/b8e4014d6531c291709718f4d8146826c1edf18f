@@ -1,0 +1,63 @@
+
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Óâ©ø8ã¡Úøù,
+V
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(éü… 8¯à¼øù,
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÛÜ“ÿÿÿÿÿ8ã¡Úøù,
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¡€·£8ã¡Úøù,
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(øÉ‹…øÿÿÿÿ8¯à¼øù,
+…squid:S40877"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¢¿ˆşÿÿÿÿÿ8ã¡Úøù,
+W
+squid:S106…"9Replace this use of System.out or System.err by a logger.(Ã¬å°8¯à¼øù,
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¿·³´8Óï•øù,
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(î­§Ü8¯à¼øù,
+osquid:S11929"QDefine a constant instead of duplicating this literal "Ğ¡Ñ‡Ğ¸Ñ‚Ğ°Ğ½Ğ¾: " 3 times.(Óâ©ø8ã¡Úøù,
+‡squid:S11924"jDefine a constant instead of duplicating this literal "Ğ¤Ğ°Ğ¹Ğ» Ğ¾Ñ‚ĞºÑ€Ñ‹Ñ‚ Ğ´Ğ»Ñ Ñ‡Ñ‚ĞµĞ½Ğ¸Ñ" 3 times.(éü… 8ã¡Úøù,
+hsquid:S11929"JDefine a constant instead of duplicating this literal " Ğ±Ğ°Ğ¹Ñ‚" 5 times.(Óâ©ø8¯à¼øù,
+jsquid:S2095="LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Şß£8¯à¼øù,
+csquid:S2095D"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Úìä™8¯à¼øù,
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ÑÉíº8¯à¼øù,
+V
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Õùëò8¯à¼øù,
+[
+squid:S106r"9Replace this use of System.out or System.err by a logger.(øÉ‹…øÿÿÿÿ8¯à¼øù,
+…squid:S4087i"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¢¿ˆşÿÿÿÿÿ8¯à¼øù,
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íúä8ÆŒöòù,
+U
+squid:S106f"9Replace this use of System.out or System.err by a logger.(éü… 8¯à¼øù,
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(Ê¡Ùêıÿÿÿÿ8¯à¼øù,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Üú–öşÿÿÿÿ8°³øù,
+_squid:S1075D"ARefactor your code to get this URI from a customizable parameter.(Úìä™8¯à¼øù,
+_squid:UnusedPrivateMethodY"3Remove this unused private "textProcessing" method.(®ƒÜò8¯à¼øù,
+V
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ñÿô8¯à¼øù,
+V
+squid:S106_"9Replace this use of System.out or System.err by a logger.(¡€·£8¯à¼øù,
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(Óâ©ø8¯à¼øù,
+W
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ñÿô8¯à¼øù,
+fsquid:UnusedPrivateMethodx"5Remove this unused private "binaryProcessing" method.(à·¶Çùÿÿÿÿ8¯à¼øù,
+Nsquid:S1481"0Remove this unused "IOJavaSheme" local variable.(Íúä8°³øù,
+\
+squid:S106€"9Replace this use of System.out or System.err by a logger.(îÈó€ıÿÿÿÿ8¯à¼øù,
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(É¯Ñšûÿÿÿÿ8¯à¼øù,
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ÏêÌäÿÿÿÿÿ8¦Åúøù,
+U
+squid:S1064"9Replace this use of System.out or System.err by a logger.(éü… 8ã¡Úøù,
+V
+squid:S106k"9Replace this use of System.out or System.err by a logger.(Óâ©ø8Úøøù,
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(«¸Ìşÿÿÿÿ8Óï•øù,
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ÏêÌäÿÿÿÿÿ8Úøøù,
+Fsquid:S1481/"(Remove this unused "str" local variable.(”ºÒş8İéâøù,

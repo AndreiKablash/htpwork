@@ -1,0 +1,35 @@
+
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ƒº÷™
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ÊÇÚÙ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(úË© ûÿÿÿÿ
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÊÒ©žùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼ü‚•ûÿÿÿÿ
+T
+squid:S1063"9Replace this use of System.out or System.err by a logger.(Ë®°äÿÿÿÿÿ
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‚¤¸œþÿÿÿÿ
+<squid:S2129." Remove this "String" constructor(†Äûÿÿÿÿ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÝÊÆúÿÿÿÿ
+7squid:S2129-" Remove this "String" constructor( ØÏ¸
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(†Äûÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(‚¤¸œþÿÿÿÿ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¨­¶ƒ
+<squid:S2129(" Remove this "String" constructor(Ž«¨‹üÿÿÿÿ
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.( ØÏ¸
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(…ò£—
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(µùãƒøÿÿÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(éÃÖÔ
+gsquid:S30276"KPut single-quotes around 'Ñƒ' to use the faster "lastIndexOf(char)" method.(µùãƒøÿÿÿÿ

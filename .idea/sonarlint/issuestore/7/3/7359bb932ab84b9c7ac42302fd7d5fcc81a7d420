@@ -1,0 +1,11 @@
+
+{"squid:ClassVariableVisibilityCheck!"MMake a a static final constant or non-public and provide accessors if needed.(üíü†
+csquid:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾á 
+Lsquid:S1068&"5Remove this unused "anotherTestString" private field.(ß³“¸
+?squid:S1068%"(Remove this unused "bool" private field.(×Ğ½Ã
+>squid:S1444"'Make this "public static A" field final(„¾á 
+psquid:S1845!"YRename field "a" to prevent any misunderstanding/clash with field "A" defined on line 11.(üíü†
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷îŸÏ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(‡¾×²şÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÄû«
+{"squid:ClassVariableVisibilityCheck"MMake A a static final constant or non-public and provide accessors if needed.(„¾á 

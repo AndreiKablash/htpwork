@@ -1,0 +1,85 @@
+
+<squid:S1659µ"Declare "b" on a separate line.(«Í ñúÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(×ªüÿÿÿÿ
+_squid:S1192G"IDefine a constant instead of duplicating this literal "number " 12 times.(Ê€ÇY
+usquid:S3973#"YUse curly braces or indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(Øþš¢þÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¼Ñò
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ¤èñ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼óÑ¼øÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÐÎè³ýÿÿÿÿ
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ôñîñøÿÿÿÿ
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ù©È±
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ã‰Ï¡
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ú½ê¢
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(¤Âê€ùÿÿÿÿ
+N
+squid:S106G"9Replace this use of System.out or System.err by a logger.(Ê€ÇY
+T
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ÿµ÷‹þÿÿÿÿ
+N
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Š‘ý^
+T
+squid:S106J"9Replace this use of System.out or System.err by a logger.(îˆØïüÿÿÿÿ
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(úª“âùÿÿÿÿ
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ùÉæ¹
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(Éƒ§ù
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(§‹Ê½ûÿÿÿÿ
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.( Ð·„
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(Ý²æ©úÿÿÿÿ
+T
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(×õ„Ôþÿÿÿÿ
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(éº¡¨
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ù´¬íÿÿÿÿÿ
+T
+squid:S106^"9Replace this use of System.out or System.err by a logger.(î˜—Žüÿÿÿÿ
+T
+squid:S106e"9Replace this use of System.out or System.err by a logger.(…»Ã‹üÿÿÿÿ
+O
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ÔíÀØ
+N
+squid:S106p"9Replace this use of System.out or System.err by a logger.(Ô™ÆP
+O
+squid:S106t"9Replace this use of System.out or System.err by a logger.(úÄéÎ
+N
+squid:S106v"9Replace this use of System.out or System.err by a logger.(Ô™ÆP
+U
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(ªãìñýÿÿÿÿ
+P
+squid:S106»"9Replace this use of System.out or System.err by a logger.(þƒ°Ú
+U
+squid:S106½"9Replace this use of System.out or System.err by a logger.(ƒ€ïÌýÿÿÿÿ
+U
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(¿Âˆùÿÿÿÿ
+P
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(ÏË¬Ò
+P
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(Äƒºü
+P
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(œÙÌš
+P
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(ìŒÝÉ
+P
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(ÇÉò
+P
+squid:S106Þ"9Replace this use of System.out or System.err by a logger.(Ëúò
+U
+squid:S106å"9Replace this use of System.out or System.err by a logger.(ñÞÀàýÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Çµí‘

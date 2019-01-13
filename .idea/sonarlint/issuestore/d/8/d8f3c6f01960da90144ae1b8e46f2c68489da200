@@ -1,0 +1,20 @@
+
+osquid:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(ŸÊõÓ8Ò–‘şş,
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ŸÊõÓ8Ûãşş,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ…ùÿÿÿÿ
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èÏşş,
+osquid:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(éæ²8šº”şş,
+osquid:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(ãÈ‰8ô‰şş,
+tsquid:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(ãÎÆÿùÿÿÿÿ8’³şş,
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(‰ş˜˜ÿÿÿÿÿ8ÌŞ“şş,
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ãÎÆÿùÿÿÿÿ8’³şş,
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(éæ²8ÌŞ“şş,
+tsquid:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(‰ş˜˜ÿÿÿÿÿ8ªı•şş,
+rsquid:S3008"TRename this field "EXCHANGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÉ¡Ò8şËæış,
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ãÈ‰8¦²ˆşş,
+dsquid:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8èÏşş,

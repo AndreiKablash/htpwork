@@ -1,0 +1,62 @@
+
+Osquid:S1197["8Move the array designator from the variable to the type.(§—·É
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸¡øÅşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ª™
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î”®àÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï±âùÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¡Ç¾ìûÿÿÿÿ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ç‹×ûûÿÿÿÿ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¹é
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ÌÃã‰
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(éŞº¬ùÿÿÿÿ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(éÀøãúÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Ü¶ïûÿÿÿÿ
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(§ÖÔ–
+O
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ğ¡šğ
+O
+squid:S106_"9Replace this use of System.out or System.err by a logger.(œˆ¼ÿ
+O
+squid:S106e"9Replace this use of System.out or System.err by a logger.(Á½û–
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(à‰äúÿÿÿÿ
+O
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ÏÑş
+O
+squid:S106v"9Replace this use of System.out or System.err by a logger.(×’ãá
+T
+squid:S106y"9Replace this use of System.out or System.err by a logger.(÷¦²¦ùÿÿÿÿ
+O
+squid:S106{"9Replace this use of System.out or System.err by a logger.(×’ãá
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËŠÿ¸ùÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+P
+squid:S106„"9Replace this use of System.out or System.err by a logger.(••Ç
+P
+squid:S106†"9Replace this use of System.out or System.err by a logger.(×’ãá
+Nsquid:S1481E"2Remove this unused "anArryOFBytes" local variable.(®ıÂûÿÿÿÿ
+Isquid:S1481F"3Remove this unused "anArryOFShorts" local variable.(Åş2
+Nsquid:S1481G"2Remove this unused "anArryOFLongs" local variable.(à«»„ùÿÿÿÿ
+Osquid:S1481H"3Remove this unused "anArryOFfloats" local variable.(µªª¦şÿÿÿÿ
+Jsquid:S1481I"4Remove this unused "anArryOFDoubles" local variable.(îî‰
+Psquid:S1481J"4Remove this unused "anArrayBooleans" local variable.(â„°‘øÿÿÿÿ
+?squid:S1481["(Remove this unused "arr" local variable.(§—·É
+:squid:S2129	"Remove this "Byte" constructor(µ øÆûÿÿÿÿ
+8squid:S2129"!Remove this "Integer" constructor(·šõù
+;squid:S2129"Remove this "Float" constructor(‡ÖÕµÿÿÿÿÿ
+<squid:S2129" Remove this "Double" constructor(ø´¼ÿúÿÿÿÿ
+:squid:S2129"#Remove this "Character" constructor(ØÛ˜æ

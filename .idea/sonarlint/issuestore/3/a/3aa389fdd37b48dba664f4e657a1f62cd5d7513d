@@ -1,0 +1,31 @@
+
+Vsquid:S1197s"8Move the array designator from the variable to the type.(ğ×ØÆ8ÖÄ‡¤ø,
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÖÄ‡¤ø,
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(æ…ëŸÿÿÿÿÿ8ÖÄ‡¤ø,
+?squid:S1643"Use a StringBuilder instead.(ÏÆÜæıÿÿÿÿ8”’â•÷,
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ÅÌ°8”°ø£ø,
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ä¬é8á»›¢ø,
+[squid:S1197"8Move the array designator from the variable to the type.(ÎÚùİşÿÿÿÿ8éãö¡ø,
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ÃÈ…Ï8Îß£ø,
+]squid:S1118":Add a private constructor to hide the implicit public one.(Ñ¾˜úıÿÿÿÿ8€Ú÷¡ø,
+V
+squid:S106f"9Replace this use of System.out or System.err by a logger.(­êßĞ8”°ø£ø,
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(õ×¢8”°ø£ø,
+V
+squid:S106n"9Replace this use of System.out or System.err by a logger.(Ò²Îè8ÖÄ‡¤ø,
+[squid:S1197["8Move the array designator from the variable to the type.(ƒ…ööøÿÿÿÿ8”°ø£ø,
+[squid:S1197t"8Move the array designator from the variable to the type.(©™àüıÿÿÿÿ8ÖÄ‡¤ø,
+Esquid:S1481L"'Remove this unused "s1" local variable.(‹ÕœÄ8Îß£ø,
+?squid:S1643)"Use a StringBuilder instead.(ä‰Ôûøÿÿÿÿ8á»›¢ø,
+[
+squid:S106w"9Replace this use of System.out or System.err by a logger.(µÌÊ‚şÿÿÿÿ8ÖÄ‡¤ø,
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ôé£ˆùÿÿÿÿ8­­†¢ø,
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(”á®öüÿÿÿÿ8²ş©¢ø,
